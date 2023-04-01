@@ -1,0 +1,680 @@
+PROVINCIA,CANTON,SE,NÃšM..CASOS
+Esmeraldas,2,46,2
+El Oro,3,9,9
+El Oro,3,12,6
+El Oro,3,14,7
+El Oro,3,7,3
+El Oro,3,23,4
+El Oro,3,8,3
+El Oro,3,15,11
+El Oro,3,18,3
+El Oro,3,20,6
+El Oro,3,4,2
+El Oro,3,11,2
+El Oro,3,19,3
+El Oro,3,2,2
+El Oro,3,13,2
+El Oro,3,10,2
+El Oro,3,16,6
+El Oro,3,17,3
+Manabí,4,7,2
+Manabí,4,20,3
+Sucumbíos,5,25,2
+Los Ríos,6,5,2
+Los Ríos,6,8,2
+Los Ríos,6,21,2
+Los Ríos,6,22,2
+Los Ríos,6,23,2
+Guayas,7,45,2
+Guayas,8,10,4
+Guayas,8,13,3
+Guayas,8,5,2
+Guayas,8,7,3
+Guayas,8,11,3
+Guayas,8,20,2
+Manabí,9,50,2
+Manabí,9,7,2
+Manabí,9,11,2
+Manabí,9,9,2
+Manabí,9,17,2
+Manabí,9,32,2
+Los Ríos,10,8,2
+Los Ríos,10,15,2
+Los Ríos,10,19,3
+Los Ríos,10,28,3
+Santa Elena,11,8,2
+Santa Elena,11,12,2
+Santa Elena,11,14,2
+Santa Elena,11,16,2
+Santa Elena,11,15,3
+Santa Elena,11,18,4
+Santa Elena,11,19,4
+Santa Elena,11,20,2
+Santa Elena,11,22,7
+Santa Elena,11,24,5
+Santa Elena,11,25,2
+Santa Elena,11,23,3
+Santa Elena,11,32,3
+Santa Elena,11,33,2
+Santa Elena,11,34,2
+Santa Elena,11,36,2
+Orellana,12,1,3
+Orellana,12,2,2
+Orellana,12,6,2
+Orellana,12,7,2
+Orellana,12,8,2
+Orellana,12,11,3
+Orellana,12,9,3
+Orellana,12,15,2
+Orellana,12,18,2
+Los Ríos,15,9,7
+Los Ríos,15,19,2
+Los Ríos,15,2,3
+Los Ríos,15,7,7
+Los Ríos,15,6,3
+Los Ríos,15,8,4
+Los Ríos,15,3,4
+Los Ríos,15,12,2
+Los Ríos,15,5,6
+Los Ríos,15,11,6
+Los Ríos,15,10,2
+Los Ríos,15,13,2
+Los Ríos,15,14,2
+Los Ríos,15,28,3
+Guayas,18,19,2
+Guayas,19,6,6
+Guayas,19,5,4
+Guayas,19,7,6
+Guayas,19,8,5
+Guayas,19,3,3
+Guayas,19,10,6
+Guayas,19,11,8
+Guayas,19,9,5
+Guayas,19,1,3
+Guayas,19,12,2
+Guayas,19,13,5
+Guayas,19,15,4
+Guayas,19,14,5
+Guayas,19,16,5
+Guayas,19,17,7
+Guayas,19,19,7
+Guayas,19,20,3
+Guayas,19,25,5
+Guayas,19,18,3
+Guayas,19,21,4
+Guayas,19,24,2
+Guayas,19,23,2
+Guayas,19,28,2
+Guayas,19,26,4
+Guayas,19,39,2
+Guayas,19,32,5
+Guayas,19,41,2
+Guayas,19,38,2
+Guayas,19,37,2
+Guayas,19,36,3
+Guayas,19,35,2
+Santo Domingo de los Tsáchilas,20,19,4
+Santo Domingo de los Tsáchilas,20,6,2
+Santo Domingo de los Tsáchilas,20,2,3
+Santo Domingo de los Tsáchilas,20,10,2
+Santo Domingo de los Tsáchilas,20,13,3
+Santo Domingo de los Tsáchilas,20,16,4
+Santo Domingo de los Tsáchilas,20,14,5
+Santo Domingo de los Tsáchilas,20,3,2
+Santo Domingo de los Tsáchilas,20,20,3
+Santo Domingo de los Tsáchilas,20,21,2
+Santo Domingo de los Tsáchilas,20,22,2
+Santo Domingo de los Tsáchilas,20,27,3
+Santo Domingo de los Tsáchilas,20,38,3
+Santo Domingo de los Tsáchilas,20,39,2
+El Oro,21,2,2
+El Oro,21,9,2
+El Oro,21,13,2
+El Oro,21,16,4
+El Oro,21,19,6
+El Oro,21,25,3
+El Oro,21,30,2
+Cañar,22,4,2
+Cañar,22,6,2
+Cañar,22,28,2
+Esmeraldas,23,13,2
+Esmeraldas,23,12,2
+Esmeraldas,23,22,3
+Esmeraldas,23,29,2
+Esmeraldas,23,45,2
+Esmeraldas,23,47,4
+Esmeraldas,23,48,3
+Chimborazo,24,1,2
+Sucumbíos,25,2,8
+Sucumbíos,25,4,6
+Sucumbíos,25,1,5
+Sucumbíos,25,3,4
+Sucumbíos,25,9,4
+Sucumbíos,25,10,3
+Sucumbíos,25,15,5
+Sucumbíos,25,5,5
+Sucumbíos,25,6,4
+Sucumbíos,25,7,4
+Sucumbíos,25,18,3
+Sucumbíos,25,40,4
+Sucumbíos,25,41,2
+Sucumbíos,25,44,2
+Esmeraldas,26,9,2
+Esmeraldas,26,13,2
+Esmeraldas,26,45,2
+Guayas,28,6,3
+Guayas,29,8,4
+Guayas,29,10,2
+Guayas,29,7,2
+Guayas,29,14,2
+Guayas,29,20,3
+Guayas,29,18,2
+Guayas,29,19,4
+Guayas,29,23,2
+Guayas,29,27,2
+Guayas,29,41,2
+Manabí,30,4,2
+Manabí,30,8,4
+Manabí,30,9,2
+Manabí,30,11,2
+Manabí,30,18,2
+Manabí,31,4,3
+Manabí,31,5,4
+Manabí,31,3,2
+Manabí,31,16,2
+Manabí,31,15,2
+Manabí,31,19,2
+Manabí,32,11,2
+Manabí,32,16,2
+Manabí,32,19,3
+Manabí,32,24,2
+Esmeraldas,34,13,2
+Pichincha,35,33,3
+Pichincha,35,35,2
+Santa Elena,36,9,2
+Santa Elena,36,18,2
+Santa Elena,36,37,2
+Santa Elena,39,10,2
+Santa Elena,39,18,3
+Los Ríos,40,16,2
+Los Ríos,40,32,3
+Guayas,44,20,2
+Manabí,45,4,4
+Manabí,45,6,3
+Manabí,45,7,3
+Manabí,45,10,4
+Manabí,45,15,2
+Morona Santiago,46,14,2
+Guayas,49,15,1
+El Oro,53,9,3
+El Oro,53,10,3
+El Oro,53,11,2
+El Oro,53,12,2
+El Oro,53,13,3
+El Oro,53,14,6
+El Oro,53,15,7
+El Oro,53,17,2
+El Oro,53,18,2
+El Oro,53,21,2
+Bolívar,55,20,1
+Guayas,60,29,2
+Zamora Chinchipe,62,27,1
+Cotopaxi,63,8,1
+El Oro,64,5,2
+Tungurahua,65,9,1
+Los Ríos,66,36,1
+Napo,68,10,1
+Morona Santiago,69,28,2
+Loja,70,17,2
+Loja,71,18,3
+Loja,72,38,2
+Cotopaxi,1,23,1
+Cotopaxi,1,12,1
+Cotopaxi,1,5,1
+Cotopaxi,1,2,1
+Cotopaxi,1,38,1
+Esmeraldas,2,51,1
+Esmeraldas,2,8,1
+Esmeraldas,2,12,1
+Esmeraldas,2,20,1
+Esmeraldas,2,27,1
+Esmeraldas,2,44,1
+Esmeraldas,2,47,1
+El Oro,3,41,1
+El Oro,3,45,1
+El Oro,3,47,1
+El Oro,3,46,1
+El Oro,3,3,1
+El Oro,3,6,1
+El Oro,3,21,1
+El Oro,3,25,1
+El Oro,3,48,1
+El Oro,3,28,1
+El Oro,3,29,1
+El Oro,3,37,1
+El Oro,3,24,1
+Manabí,4,48,1
+Manabí,4,9,1
+Manabí,4,11,1
+Manabí,4,12,1
+Manabí,4,5,1
+Manabí,4,16,1
+Manabí,4,17,1
+Manabí,4,21,1
+Manabí,4,4,1
+Manabí,4,18,1
+Manabí,4,26,1
+Manabí,4,27,1
+Manabí,4,37,1
+Manabí,4,46,1
+Sucumbíos,5,51,1
+Sucumbíos,5,13,1
+Sucumbíos,5,1,1
+Sucumbíos,5,2,1
+Sucumbíos,5,3,1
+Sucumbíos,5,24,1
+Sucumbíos,5,27,1
+Sucumbíos,5,31,1
+Sucumbíos,5,35,1
+Sucumbíos,5,11,1
+Sucumbíos,5,16,1
+Sucumbíos,5,41,1
+Los Ríos,6,49,1
+Los Ríos,6,45,1
+Los Ríos,6,46,1
+Los Ríos,6,1,1
+Los Ríos,6,4,1
+Los Ríos,6,10,1
+Los Ríos,6,14,1
+Los Ríos,6,15,1
+Los Ríos,6,17,1
+Los Ríos,6,19,1
+Los Ríos,6,16,1
+Los Ríos,6,27,1
+Los Ríos,6,26,1
+Los Ríos,6,37,1
+Guayas,7,49,1
+Guayas,7,20,1
+Guayas,7,9,1
+Guayas,7,10,1
+Guayas,7,13,1
+Guayas,7,4,1
+Guayas,7,16,1
+Guayas,8,47,1
+Guayas,8,48,1
+Guayas,8,52,1
+Guayas,8,4,1
+Guayas,8,9,1
+Guayas,8,12,1
+Guayas,8,14,1
+Guayas,8,16,1
+Guayas,8,22,1
+Guayas,8,23,1
+Guayas,8,30,1
+Guayas,8,31,1
+Guayas,8,35,1
+Manabí,9,48,1
+Manabí,9,5,1
+Manabí,9,6,1
+Manabí,9,3,1
+Manabí,9,19,1
+Manabí,9,20,1
+Manabí,9,24,1
+Manabí,9,23,1
+Manabí,9,27,1
+Manabí,9,30,1
+Manabí,9,31,1
+Manabí,9,34,1
+Manabí,9,36,1
+Manabí,9,37,1
+Manabí,9,45,1
+Manabí,9,15,1
+Manabí,9,39,1
+Los Ríos,10,44,1
+Los Ríos,10,4,1
+Los Ríos,10,3,1
+Los Ríos,10,5,1
+Los Ríos,10,6,1
+Los Ríos,10,7,1
+Los Ríos,10,1,1
+Los Ríos,10,16,1
+Los Ríos,10,26,1
+Los Ríos,10,29,1
+Los Ríos,10,23,1
+Los Ríos,10,25,1
+Santa Elena,11,52,1
+Santa Elena,11,3,1
+Santa Elena,11,17,1
+Santa Elena,11,21,1
+Santa Elena,11,31,1
+Santa Elena,11,29,1
+Santa Elena,11,4,1
+Santa Elena,11,35,1
+Santa Elena,11,43,1
+Santa Elena,11,40,1
+Santa Elena,11,51,1
+Santa Elena,11,27,1
+Orellana,12,44,1
+Orellana,12,50,1
+Orellana,12,13,1
+Orellana,12,30,1
+Orellana,12,29,1
+Orellana,12,24,1
+Orellana,12,17,1
+Orellana,12,39,1
+Orellana,12,42,1
+Orellana,12,4,1
+Orellana,12,5,1
+Orellana,12,32,1
+Orellana,12,16,1
+Orellana,12,19,1
+Azuay,13,1,1
+Azuay,13,12,1
+Azuay,13,49,1
+Pichincha,14,42,1
+Pichincha,14,24,1
+Pichincha,14,29,1
+Pichincha,14,31,1
+Pichincha,14,48,1
+Pichincha,14,43,1
+Los Ríos,15,34,1
+Los Ríos,15,17,1
+Los Ríos,15,4,1
+Los Ríos,15,22,1
+Los Ríos,15,18,1
+Los Ríos,15,21,1
+Los Ríos,15,37,1
+Los Ríos,15,39,1
+Los Ríos,15,40,1
+Los Ríos,15,47,1
+Napo,16,39,1
+Napo,16,48,1
+Napo,16,37,1
+Napo,16,38,1
+Napo,16,17,1
+El Oro,17,14,1
+El Oro,17,10,1
+El Oro,17,12,1
+El Oro,17,13,1
+El Oro,17,23,1
+Guayas,18,25,1
+Guayas,18,4,1
+Guayas,18,5,1
+Guayas,18,14,1
+Guayas,18,15,1
+Guayas,18,24,1
+Guayas,18,22,1
+Guayas,18,12,1
+Guayas,19,4,1
+Guayas,19,22,1
+Guayas,19,29,1
+Guayas,19,30,1
+Guayas,19,45,1
+Guayas,19,27,1
+Santo Domingo de los Tsáchilas,20,5,1
+Santo Domingo de los Tsáchilas,20,11,1
+Santo Domingo de los Tsáchilas,20,7,1
+Santo Domingo de los Tsáchilas,20,8,1
+Santo Domingo de los Tsáchilas,20,15,1
+Santo Domingo de los Tsáchilas,20,23,1
+Santo Domingo de los Tsáchilas,20,28,1
+Santo Domingo de los Tsáchilas,20,26,1
+Santo Domingo de los Tsáchilas,20,29,1
+Santo Domingo de los Tsáchilas,20,33,1
+Santo Domingo de los Tsáchilas,20,31,1
+Santo Domingo de los Tsáchilas,20,34,1
+Santo Domingo de los Tsáchilas,20,35,1
+Santo Domingo de los Tsáchilas,20,36,1
+Santo Domingo de los Tsáchilas,20,43,1
+Santo Domingo de los Tsáchilas,20,40,1
+Santo Domingo de los Tsáchilas,20,30,1
+Santo Domingo de los Tsáchilas,20,25,1
+El Oro,21,26,1
+El Oro,21,11,1
+El Oro,21,18,1
+El Oro,21,20,1
+El Oro,21,21,1
+El Oro,21,22,1
+El Oro,21,23,1
+El Oro,21,28,1
+El Oro,21,35,1
+El Oro,21,51,1
+Cañar,22,19,1
+Cañar,22,5,1
+Cañar,22,9,1
+Cañar,22,17,1
+Cañar,22,20,1
+Cañar,22,21,1
+Cañar,22,22,1
+Cañar,22,23,1
+Cañar,22,30,1
+Cañar,22,31,1
+Cañar,22,44,1
+Esmeraldas,23,1,1
+Esmeraldas,23,7,1
+Esmeraldas,23,14,1
+Esmeraldas,23,16,1
+Esmeraldas,23,17,1
+Esmeraldas,23,8,1
+Esmeraldas,23,30,1
+Esmeraldas,23,36,1
+Esmeraldas,23,46,1
+Esmeraldas,23,49,1
+Esmeraldas,23,11,1
+Chimborazo,24,9,1
+Chimborazo,24,25,1
+Chimborazo,24,30,1
+Sucumbíos,25,13,1
+Sucumbíos,25,8,1
+Sucumbíos,25,16,1
+Sucumbíos,25,17,1
+Sucumbíos,25,20,1
+Sucumbíos,25,25,1
+Sucumbíos,25,24,1
+Sucumbíos,25,34,1
+Sucumbíos,25,31,1
+Sucumbíos,25,35,1
+Sucumbíos,25,45,1
+Sucumbíos,25,38,1
+Sucumbíos,25,48,1
+Esmeraldas,26,8,1
+Esmeraldas,26,7,1
+Esmeraldas,26,11,1
+Esmeraldas,26,3,1
+Esmeraldas,26,39,1
+Esmeraldas,26,37,1
+Guayas,27,4,1
+Guayas,27,29,1
+Guayas,28,1,1
+Guayas,28,7,1
+Guayas,28,14,1
+Guayas,28,16,1
+Guayas,29,9,1
+Guayas,29,1,1
+Guayas,29,6,1
+Guayas,29,11,1
+Guayas,29,13,1
+Guayas,29,16,1
+Guayas,29,21,1
+Guayas,29,22,1
+Guayas,29,25,1
+Guayas,29,32,1
+Guayas,29,31,1
+Guayas,29,33,1
+Guayas,29,35,1
+Guayas,29,47,1
+Guayas,29,12,1
+Guayas,29,39,1
+Manabí,30,7,1
+Manabí,30,6,1
+Manabí,30,12,1
+Manabí,30,1,1
+Manabí,30,10,1
+Manabí,30,15,1
+Manabí,30,17,1
+Manabí,30,20,1
+Manabí,30,19,1
+Manabí,30,21,1
+Manabí,30,23,1
+Manabí,30,30,1
+Manabí,30,29,1
+Manabí,30,45,1
+Manabí,31,6,1
+Manabí,31,8,1
+Manabí,31,47,1
+Manabí,32,4,1
+Manabí,32,6,1
+Manabí,32,9,1
+Manabí,32,13,1
+Manabí,32,17,1
+Manabí,32,18,1
+Manabí,32,21,1
+Manabí,32,22,1
+Manabí,32,26,1
+Manabí,32,27,1
+Manabí,32,31,1
+Manabí,32,39,1
+Manabí,32,49,1
+Manabí,32,51,1
+Guayas,33,7,1
+Guayas,33,11,1
+Guayas,33,16,1
+Esmeraldas,34,9,1
+Esmeraldas,34,16,1
+Esmeraldas,34,7,1
+Esmeraldas,34,18,1
+Esmeraldas,34,17,1
+Esmeraldas,34,24,1
+Esmeraldas,34,26,1
+Esmeraldas,34,28,1
+Esmeraldas,34,29,1
+Esmeraldas,34,31,1
+Esmeraldas,34,33,1
+Esmeraldas,34,45,1
+Esmeraldas,34,48,1
+Esmeraldas,34,51,1
+Esmeraldas,34,36,1
+Pichincha,35,10,1
+Pichincha,35,17,1
+Pichincha,35,15,1
+Pichincha,35,9,1
+Pichincha,35,12,1
+Pichincha,35,18,1
+Santa Elena,36,11,1
+Santa Elena,36,17,1
+Santa Elena,36,6,1
+Santa Elena,36,10,1
+Santa Elena,36,19,1
+Santa Elena,36,21,1
+Santa Elena,36,24,1
+Santa Elena,36,30,1
+Santa Elena,36,29,1
+Santa Elena,36,31,1
+Santa Elena,36,38,1
+Santa Elena,36,15,1
+Santa Elena,36,16,1
+Santa Elena,36,34,1
+Santa Elena,36,39,1
+Esmeraldas,37,13,1
+Esmeraldas,37,16,1
+Esmeraldas,37,25,1
+Manabí,38,4,1
+Manabí,38,6,1
+Manabí,38,7,1
+Manabí,38,15,1
+Manabí,38,16,1
+Manabí,38,19,1
+Santa Elena,39,2,1
+Santa Elena,39,9,1
+Santa Elena,39,15,1
+Santa Elena,39,41,1
+Los Ríos,40,11,1
+Los Ríos,40,17,1
+Los Ríos,40,14,1
+Los Ríos,40,24,1
+Los Ríos,40,26,1
+Manabí,41,5,1
+Manabí,41,6,1
+Manabí,41,8,1
+Manabí,41,18,1
+Manabí,41,7,1
+Bolívar,42,12,1
+Bolívar,42,5,1
+Azuay,43,11,1
+Azuay,43,17,1
+Guayas,44,11,1
+Guayas,44,13,1
+Manabí,45,2,1
+Manabí,45,3,1
+Manabí,45,9,1
+Manabí,45,13,1
+Manabí,45,16,1
+Manabí,45,11,1
+Morona Santiago,46,20,1
+Manabí,47,14,1
+Manabí,47,36,1
+Manabí,47,51,1
+Esmeraldas,48,22,1
+Esmeraldas,48,24,1
+Esmeraldas,48,26,1
+Esmeraldas,48,35,1
+Los Ríos,50,17,1
+Los Ríos,50,32,1
+Guayas,51,13,1
+Guayas,51,36,1
+Zamora Chinchipe,52,13,1
+Zamora Chinchipe,52,30,1
+Zamora Chinchipe,52,34,1
+El Oro,53,3,1
+El Oro,53,8,1
+El Oro,53,16,1
+El Oro,53,20,1
+El Oro,53,22,1
+El Oro,53,27,1
+El Oro,53,40,1
+Manabí,54,20,1
+Manabí,54,46,1
+Morona Santiago,56,15,1
+Morona Santiago,56,20,1
+Cañar,57,20,1
+Cañar,57,5,1
+Galápagos,58,17,1
+Galápagos,58,21,1
+Guayas,59,20,1
+Guayas,59,14,1
+Guayas,60,28,1
+Guayas,60,30,1
+Guayas,60,33,1
+El Oro,61,22,1
+El Oro,61,23,1
+El Oro,61,3,1
+El Oro,61,14,1
+El Oro,61,17,1
+El Oro,64,2,1
+El Oro,64,7,1
+El Oro,64,12,1
+El Oro,64,19,1
+El Oro,64,20,1
+El Oro,64,21,1
+El Oro,64,33,1
+El Oro,64,13,1
+El Oro,64,1,1
+El Oro,64,6,1
+El Oro,64,9,1
+El Oro,64,11,1
+El Oro,64,16,1
+El Oro,64,49,1
+Napo,67,2,1
+Napo,67,4,1
+Morona Santiago,69,1,1
+Morona Santiago,69,6,1
+Morona Santiago,69,33,1
+Loja,70,40,1
+Loja,71,16,1
+Loja,71,21,1
+Loja,71,29,1
+Loja,71,30,1
+Loja,71,47,1
+Loja,71,51,1
+Loja,72,10,1
+Loja,72,31,1
